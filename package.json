@@ -1,5 +1,6 @@
 {
   "name": "spider_js",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +10,11 @@
   "repository": {
     "type": "git",
     "url": "https://www.katalon.com/download/"
+  },
+  "engines": {
+    "node": ">=10.15.3",
+    "npm": ">=6.9.0",
+    "yarn": ">=1.16.0"
   },
   "keywords": [
     "spider",
